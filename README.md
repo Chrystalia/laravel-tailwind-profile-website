@@ -6,12 +6,13 @@ Welcome to my profile website.
   <img src="https://github.com/Chrystalia/laravel-tailwind-profile-website/blob/main/public/images/profile-light-theme.png">
   <img src="https://github.com/Chrystalia/laravel-tailwind-profile-website/blob/main/public/images/profile-dark-theme.png">
   
-  <img src="https://github.com/Chrystalia/laravel-tailwind-profile-website/blob/main/public/images/profile-light-theme.gif" style="width:31rem;">
-  <img src="https://github.com/Chrystalia/laravel-tailwind-profile-website/blob/main/public/images/profile-dark-theme.gif" style="width:31rem;">
+  <img src="https://github.com/Chrystalia/laravel-tailwind-profile-website/blob/main/public/images/profile-light-theme.gif" style="width:25rem;">
+  <img src="https://github.com/Chrystalia/laravel-tailwind-profile-website/blob/main/public/images/profile-dark-theme.gif" style="width:25rem;">
 </p>
  
 # Features & Tech ⚙️
 - Responsive
+- Animated background
 - Available in Light mode and Dark mode (click icon on the top right corner)
 - Laravel
 - Tailwind css
@@ -21,12 +22,12 @@ Welcome to my profile website.
 (Make sure your device have <a href="https://nodejs.org/en/download">npm</a> and <a href="https://getcomposer.org/download/">composer</a> installed)
 
 In a terminal:
-- Clone the Repository 
+- Clone the repository 
 ```sh
     git clone https://github.com/Chrystalia/laravel-tailwind-profile-website.git
 ```
 
-- Redirect to cloned folder with 
+- Redirect to cloned folder  
 ```sh
     cd .\laravel-tailwind-profile-website\
 ```
@@ -41,7 +42,7 @@ In a terminal:
     npm install -D tailwindcss postcss autoprefixer
 ```
 
-- Run build process with 
+- Run build process  
 ```sh
     npm run dev
 ```
@@ -69,7 +70,7 @@ Open a new terminal (make sure you're in the right directory):
 - https://tailwindcss.com/docs/guides/laravel
 - https://laravel.com/docs/10.x/readme
 
-### Website Preview
+
 <p align='center'>
   <b>Follow me here 🌿</b><br>  
   <a href="https://instagram.com/chrystaliaaa">Instagram</a> |
