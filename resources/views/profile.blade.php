@@ -7,7 +7,7 @@
     <title>Profile</title>
     
     {{-- Connect to css framework: tailwind --}}
-    <link rel="stylesheet" href="css/style.css">
+	@vite('resources/css/app.css')
 </head>
 <body class="box-border font-serif antialiased text-gray-900 leading-normal tracking-wider bg-cover bg-orange-50">
 
@@ -163,7 +163,7 @@
 			body.classList.remove('bg-orange-50');
 			body.classList.add('bg-gray-900');
 			profile.classList.remove('bg-slate-50');
-			profile.classList.add('bg-slate-800');
+			profile.classList.add('bg-gray-800');
 			institution.classList.remove('text-gray-600');
 			institution.classList.add('text-gray-400');
 		} else
@@ -173,7 +173,7 @@
 			body.classList.add('text-gray-900');
 			body.classList.remove('bg-gray-900');
 			body.classList.add('bg-orange-50');
-			profile.classList.remove('bg-slate-800');			
+			profile.classList.remove('bg-gray-800');			
 			profile.classList.add('bg-slate-50');
 			institution.classList.remove('text-gray-400');
 			institution.classList.add('text-gray-600');
