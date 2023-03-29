@@ -105,7 +105,7 @@
 				<div class="pt-12 pb-8">
 					<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=chrysglenys@gmail.com">
 						<button class="hover:animate-bounce hover:bg-green-900 bg-green-700 text-white font-bold py-3 px-6 rounded-full  ">
-						CONTACT ME
+						Contact Me
 						</button> 
 					</a>
 				</div>
@@ -163,7 +163,7 @@
 			body.classList.remove('bg-orange-50');
 			body.classList.add('bg-gray-900');
 			profile.classList.remove('bg-slate-50');
-			profile.classList.add('bg-gray-800');
+			profile.classList.add('bg-slate-800');
 			institution.classList.remove('text-gray-600');
 			institution.classList.add('text-gray-400');
 		} else
@@ -173,7 +173,7 @@
 			body.classList.add('text-gray-900');
 			body.classList.remove('bg-gray-900');
 			body.classList.add('bg-orange-50');
-			profile.classList.remove('bg-gray-800');			
+			profile.classList.remove('bg-slate-800');			
 			profile.classList.add('bg-slate-50');
 			institution.classList.remove('text-gray-400');
 			institution.classList.add('text-gray-600');
