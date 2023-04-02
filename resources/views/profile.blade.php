@@ -13,7 +13,7 @@
 
 	<section class="-z-1 ">
 		<div class="absolute bottom-20 left-5 opacity-90">
-			<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="137.316 170.513 737.06 693.295">
+			<svg xmlns="http://www.w3.org/2000/svg" width="610" height="610" viewBox="137.316 170.513 737.06 693.295">
 				<g clip-path="url(#a)">
 				<defs>
 					<linearGradient id="b" gradientTransform="rotate(-45 .5 .5)"><stop offset="0%" stop-color="#08AEEA"/><stop offset="100%" stop-color="#2AF598"/></linearGradient>
@@ -36,8 +36,8 @@
 				</g>
 			</svg>
 		</div>
-		<div class="absolute bottom-5 left-60 opacity-90">
-			<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="137.316 170.513 737.06 693.295">
+		<div class="absolute bottom-5 left-80 opacity-90">
+			<svg xmlns="http://www.w3.org/2000/svg" width="350" height="350" viewBox="137.316 170.513 737.06 693.295">
 				<defs>
 					<linearGradient id="b" gradientTransform="rotate(-45 .5 .5)"><stop offset="0%" stop-color="#08AEEA"/><stop offset="100%" stop-color="#2AF598"/></linearGradient>
 					<clipPath id="a"><path fill="currentColor" d="M834 626.5q-81 126.5-207.5 186t-303 50q-176.5-9.5-185-186t44-309Q235 235 367.5 191t258.5 6.5Q752 248 833.5 374t.5 252.5Z"/></clipPath>
@@ -60,7 +60,7 @@
 			</svg>
 		</div>
 		<div class="absolute top-0 right-10 opacity-90">
-			<svg xmlns="http://www.w3.org/2000/svg" width="450" height="450" viewBox="137.316 170.513 737.06 693.295">
+			<svg xmlns="http://www.w3.org/2000/svg" width="410" height="410" viewBox="137.316 170.513 737.06 693.295">
 				<defs>
 					<linearGradient id="b" gradientTransform="rotate(-45 .5 .5)"><stop offset="0%" stop-color="#08AEEA"/><stop offset="100%" stop-color="#2AF598"/></linearGradient>
 					<clipPath id="a"><path fill="currentColor" d="M834 626.5q-81 126.5-207.5 186t-303 50q-176.5-9.5-185-186t44-309Q235 235 367.5 191t258.5 6.5Q752 248 833.5 374t.5 252.5Z"/></clipPath>
@@ -95,12 +95,12 @@
 				<!-- Image for mobile view-->
 				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image:url('images/Profile.jpg');"></div>
 				
-				<h1 class="text-2xl font-bold pt-10 lg:pt-0">Chrystalia Glenys Winata Ang</h1>
+				<h1 class="text-2xl font-bold pt-10 lg:pt-0">{{ $name }}</h1>
 				<div class="mx-auto lg:mx-0 w-4/5 pt-4 border-b-2 border-green-500 opacity-25"></div>
-				<p class="pt-8 text-base font-bold flex items-center justify-center lg:justify-start"><svg class="h-4 fill-current text-green-700 pr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z"/></svg>Student</p>
+				<p class="pt-8 text-base font-bold flex items-center justify-center lg:justify-start"><svg class="h-4 fill-current text-green-700 pr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z"/></svg>{{ $status }}</p>
 
-				<p id="institution" class="pt-2 text-gray-600 text-xs lg:text-sm flex items-center justify-center lg:justify-start"><svg class="h-4 fill-current text-green-700 pr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 20a10 10 0 1 1 0-20 10 10 0 0 1 0 20zm7.75-8a8.01 8.01 0 0 0 0-4h-3.82a28.81 28.81 0 0 1 0 4h3.82zm-.82 2h-3.22a14.44 14.44 0 0 1-.95 3.51A8.03 8.03 0 0 0 16.93 14zm-8.85-2h3.84a24.61 24.61 0 0 0 0-4H8.08a24.61 24.61 0 0 0 0 4zm.25 2c.41 2.4 1.13 4 1.67 4s1.26-1.6 1.67-4H8.33zm-6.08-2h3.82a28.81 28.81 0 0 1 0-4H2.25a8.01 8.01 0 0 0 0 4zm.82 2a8.03 8.03 0 0 0 4.17 3.51c-.42-.96-.74-2.16-.95-3.51H3.07zm13.86-8a8.03 8.03 0 0 0-4.17-3.51c.42.96.74 2.16.95 3.51h3.22zm-8.6 0h3.34c-.41-2.4-1.13-4-1.67-4S8.74 3.6 8.33 6zM3.07 6h3.22c.2-1.35.53-2.55.95-3.51A8.03 8.03 0 0 0 3.07 6z"/></svg> Bina Nusantara University</p>
-				<div class="pt-8 text-sm italic">Welcome to my tiny space on the internet.</div>
+				<p id="institution" class="pt-2 text-gray-600 text-xs lg:text-sm flex items-center justify-center lg:justify-start"><svg class="h-4 fill-current text-green-700 pr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 20a10 10 0 1 1 0-20 10 10 0 0 1 0 20zm7.75-8a8.01 8.01 0 0 0 0-4h-3.82a28.81 28.81 0 0 1 0 4h3.82zm-.82 2h-3.22a14.44 14.44 0 0 1-.95 3.51A8.03 8.03 0 0 0 16.93 14zm-8.85-2h3.84a24.61 24.61 0 0 0 0-4H8.08a24.61 24.61 0 0 0 0 4zm.25 2c.41 2.4 1.13 4 1.67 4s1.26-1.6 1.67-4H8.33zm-6.08-2h3.82a28.81 28.81 0 0 1 0-4H2.25a8.01 8.01 0 0 0 0 4zm.82 2a8.03 8.03 0 0 0 4.17 3.51c-.42-.96-.74-2.16-.95-3.51H3.07zm13.86-8a8.03 8.03 0 0 0-4.17-3.51c.42.96.74 2.16.95 3.51h3.22zm-8.6 0h3.34c-.41-2.4-1.13-4-1.67-4S8.74 3.6 8.33 6zM3.07 6h3.22c.2-1.35.53-2.55.95-3.51A8.03 8.03 0 0 0 3.07 6z"/></svg> {{ $institution }}</p>
+				<div class="pt-8 text-sm italic">{{ $description }}</div>
 
 				<div class="pt-12 pb-8">
 					<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=chrysglenys@gmail.com">
@@ -163,7 +163,7 @@
 			body.classList.remove('bg-orange-50');
 			body.classList.add('bg-gray-900');
 			profile.classList.remove('bg-slate-50');
-			profile.classList.add('bg-slate-800');
+			profile.classList.add('bg-gray-800');
 			institution.classList.remove('text-gray-600');
 			institution.classList.add('text-gray-400');
 		} else
@@ -173,7 +173,7 @@
 			body.classList.add('text-gray-900');
 			body.classList.remove('bg-gray-900');
 			body.classList.add('bg-orange-50');
-			profile.classList.remove('bg-slate-800');			
+			profile.classList.remove('bg-gray-800');			
 			profile.classList.add('bg-slate-50');
 			institution.classList.remove('text-gray-400');
 			institution.classList.add('text-gray-600');
